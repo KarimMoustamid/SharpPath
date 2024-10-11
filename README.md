@@ -1,4 +1,4 @@
-# SharpMastery
+f# SharpMastery
 
 Welcome to **SharpMastery**, a comprehensive guide and repository designed to help you master the C# programming language. Whether you're just starting with C# or looking to refine your skills, this repo contains examples, best practices, and exercises to take your C# skills to the next level.
 
